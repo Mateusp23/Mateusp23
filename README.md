@@ -3,10 +3,10 @@
 ## Hi, I'm Mateus Paulart, a Developer 🚀💻 from Brazil.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mateusp23)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-paulart-7903881a2/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-paulart-7903881a2/)
 [![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspp23/)
 [![Spotify](https://img.shields.io/badge/-Spotify-2EBD59?style=flat&logo=Spotify&logoColor=white)
-](https://open.spotify.com/user/22e3kzkyrlcsajlzw6ai6ycwy?si=DJQBly7vTYy9i4l94eNifA)[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)
+](https://open.spotify.com/user/22e3kzkyrlcsajlzw6ai6ycwy?si=DJQBly7vTYy9i4l94eNifA)[![Twitter](https://img.shields.io/badge/-Twitter-4DA6E9?style=flat&logo=Twitter&logoColor=white)
 ](https://twitter.com/mpaulart)[![Discord](https://img.shields.io/badge/-Discord-6E85D3?style=flat&logo=Discord&logoColor=white)
 ](https://discord.gg/6VebAKKA)[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4ADD5A?style=flat&logo=Whatsapp&logoColor=white)
 ](https://api.whatsapp.com/send?phone=5551999381964&text=ol%C3%A1!!)
