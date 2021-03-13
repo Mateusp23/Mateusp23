@@ -57,10 +57,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <p align="center">
   <a href="https://github.com/onimur/handle-path-oz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Android_Apps" />
-  </a>
+  </a><br>
   <a href="https://github.com/Mateusp23/Android_Apps">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=programa-o-web-php" />
-  </a>
+  </a><br>
   <a href="https://github.com/Mateusp23/Android_Apps">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Portfolio" />
   </a>
