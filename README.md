@@ -1,7 +1,7 @@
 
 ## Hi, I'm Mateus Paulart, a Developer 🚀💻 from Brazil.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://https://github.com/Mateusp23)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mateusp23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-paulart-7903881a2/)
 [![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspp23/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4ADD5A?style=flat&logo=Whatsapp&logoColor=white)
