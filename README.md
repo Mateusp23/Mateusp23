@@ -1,10 +1,13 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mateus Paulart, a Developer 🚀💻 from Brazil.
+
+## Hi, I'm Mateus Paulart, a Developer 🚀💻 from Brazil.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://https://github.com/Mateusp23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-paulart-7903881a2/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspp23/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)
-](https://twitter.com/mpaulart)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mateuspaulart@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspp23/)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4ADD5A?style=flat&logo=Whatsapp&logoColor=white)
+](https://api.whatsapp.com/send?phone=5551999381964&text=ol%C3%A1!!)[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)
+](https://twitter.com/mpaulart)[![Discord](https://img.shields.io/badge/-Discord-6E85D3?style=flat&logo=Discord&logoColor=white)
+](https://discord.gg/6VebAKKA)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mateuspaulart@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mateusp23@rede.ulbra.br)
 
 
@@ -57,12 +60,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <p align="center">
   <a href="https://github.com/onimur/handle-path-oz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Android_Apps" />
-  </a><br>
-  <a href="https://github.com/Mateusp23/Android_Apps">
+  </a>
+    <a href="https://github.com/Mateusp23/Android_Apps">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=programa-o-web-php" />
-  </a><br>
+  </a>
   <a href="https://github.com/Mateusp23/Android_Apps">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Portfolio" />
   </a>
+   <a href="https://github.com/Mateusp23/Android_Apps">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Controle-de-Despesas-JS" />
+  </a>
 </p>
-
