@@ -2,6 +2,7 @@
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Mateus Paulart, a Developer 🚀💻 from Brazil.
 
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mateusp23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-paulart-7903881a2/)
 [![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspp23/)
@@ -57,25 +58,24 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/Mateusp23/Android_Apps">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Android_Apps" />
   </a>
-    <a href="https://github.com/Mateusp23/Android_Apps">
+    <a href="https://github.com/Mateusp23/programa-o-web-php">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=programa-o-web-php" />
   </a>
-  <a href="https://github.com/Mateusp23/Android_Apps">
+  <a href="https://github.com/Mateusp23/Portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Portfolio" />
   </a>
-   <a href="https://github.com/Mateusp23/Android_Apps">
+   <a href="https://github.com/Mateusp23/Controle-de-Despesas-JS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Controle-de-Despesas-JS" />
   </a>
-     <a href="https://github.com/Mateusp23/Android_Apps">
+     <a href="https://github.com/Mateusp23/Go_4all">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Go_4all" />
   </a>
-     <a href="https://github.com/Mateusp23/Android_Apps">
+     <a href="https://github.com/Mateusp23/Pag_3D_JS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Pag_3D_JS" />
   </a>
 </p>
-
 
 
