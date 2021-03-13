@@ -46,11 +46,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg"></code>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
-
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Mateusp23/Mateus.svg" />
@@ -77,6 +75,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusp23&repo=Pag_3D_JS" />
   </a>
 </p>
-
 
 
