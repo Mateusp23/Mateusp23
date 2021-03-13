@@ -9,10 +9,7 @@
 ](https://open.spotify.com/user/22e3kzkyrlcsajlzw6ai6ycwy?si=DJQBly7vTYy9i4l94eNifA)[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)
 ](https://twitter.com/mpaulart)[![Discord](https://img.shields.io/badge/-Discord-6E85D3?style=flat&logo=Discord&logoColor=white)
 ](https://discord.gg/6VebAKKA)[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4ADD5A?style=flat&logo=Whatsapp&logoColor=white)
-](https://api.whatsapp.com/send?phone=5551999381964&text=ol%C3%A1!!)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mateuspaulart@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mateusp23@rede.ulbra.br)
-
-
+](https://api.whatsapp.com/send?phone=5551999381964&text=ol%C3%A1!!)
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
