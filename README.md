@@ -53,9 +53,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Mateusp23/Mateus.svg" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusp23&theme=tokyonight&layout=compact" /> 
-</p>
 
 <!-- Its main projects -->
 <p align="center">
