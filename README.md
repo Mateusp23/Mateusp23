@@ -31,6 +31,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
 <code><img width="10%"
 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
    <code><img width="10%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
