@@ -15,7 +15,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I am currently looking for a job in the technology field.
-- 🌱 I’m currently learning Android with Java and Kotlin, soon I want to learn flutter and react native.
+- 🌱 I’m currently learning Android with Java and Kotlin, and react native.
 - 👯Always looking to evolve and help in what I can🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I like to play footvolley and train a lot. I am in the third semester of the Systems Analysis and Development course;
