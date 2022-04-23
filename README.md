@@ -19,6 +19,7 @@
 - ⚡️ Fun-Fact: I like to play footvolley and train a lot. I am in the fifth semester of the Systems Analysis and Development course;
 - 📫 How to reach me: mateuspaulart@gmail.com;
 
+
 <p align="center">
  <a href="https://github.com/Mateusp23">
     <img width="55%" align="right" alt="Mateusp23's github stats" src="https://github-readme-stats.vercel.app/api?username=Mateusp23&show_icons=true&hide_border=true" />
