@@ -21,7 +21,7 @@
 
 **Languages and Tools:** 
 
-<p>
+<p align="center">
  <a href="https://github.com/Mateusp23">
     <img width="55%" align="right" alt="Mateusp23's github stats" src="https://github-readme-stats.vercel.app/api?username=Mateusp23&show_icons=true&hide_border=true" />
   </a>
