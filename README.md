@@ -22,7 +22,7 @@
 
 <p margin-top="16px">
  <a href="https://github.com/Mateusp23">
-    <img width="35%" align="center" alt="Mateusp23's github stats" src="https://github-readme-stats.vercel.app/api?username=Mateusp23&show_icons=true&hide_border=true" />
+    <img width="45%" align="center" alt="Mateusp23's github stats" src="https://github-readme-stats.vercel.app/api?username=Mateusp23&show_icons=true&hide_border=true" />
  </a>
 </p>
 
