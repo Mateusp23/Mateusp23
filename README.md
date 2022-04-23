@@ -25,14 +25,6 @@
  <a href="https://github.com/Mateusp23">
     <img width="55%" align="right" alt="Mateusp23's github stats" src="https://github-readme-stats.vercel.app/api?username=Mateusp23&show_icons=true&hide_border=true" />
   </a>
-<p>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
-    <code><img width="10%"
-    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-</p>
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Mateusp23/Mateus.svg" />
