@@ -30,6 +30,5 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Mateusp23/Mateus.svg" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusp23&langs_count=8)](https://github.com/Mateusp23/github-readme-stats)
 
 
