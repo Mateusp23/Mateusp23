@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-paulart-7903881a2/)
 [![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspp23/)
-[![Spotify](https://img.shields.io/badge/-Spotify-2EBD59?style=flat&logo=Spotify&logoColor=white)
+![Spotify](https://img.shields.io/badge/-Spotify-2EBD59?style=flat&logo=Spotify&logoColor=white)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4ADD5A?style=flat&logo=Whatsapp&logoColor=white)
 ](https://api.whatsapp.com/send?phone=5551999381964&text=ol%C3%A1!!)
 <!-- Talking about you -->
