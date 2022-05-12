@@ -1,6 +1,6 @@
 
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> , I'm Mateus Paulart, a Developer from Brazil 🚀💻 
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> , I'm Mateus, a Developer from Brazil 🚀💻 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-paulart-7903881a2/)
 [![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspp23/)
