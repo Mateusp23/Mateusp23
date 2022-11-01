@@ -12,7 +12,7 @@
 - 👨🏽‍💻 I am a React Developer, Front-End;
 - 👯 Always looking to evolve and help in what I can🤝;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I like to play footvolley and train a lot. I am in the fifth semester of the Systems Analysis and Development course;
+- ⚡️ Fun-Fact: I like to play footvolley and train a lot.
 - 📫 How to reach me: mateuspaulart@gmail.com;
 
 
