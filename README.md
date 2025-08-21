@@ -32,7 +32,7 @@
 ---
 
 ## 🌍 Connect with Me  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-paulart-7903881a2/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateusp23/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mateuspaulart@gmail.com)
 
 ---
