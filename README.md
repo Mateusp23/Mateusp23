@@ -8,7 +8,7 @@
 
 ## ⚡️ About Me
 - 👨🏽‍💻 Fullstack dev, but living mostly in the Front-End world
-- 🛠️ Main stack: **React | Next.js | TypeScript | Tailwind | PostgreSQL**
+- 🛠️ Main stack: **React | Next.js | TypeScript | Tailwind | Node | PostgreSQL**
 - 🎯 Extra skills: Styled Components, Redux, React Query, Jest (unit tests)
 - 🤝 Always open to collaborate and learn from other devs
 - ⚽ Fun fact: I train a lot and love playing footvolley
