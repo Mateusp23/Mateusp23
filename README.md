@@ -16,9 +16,9 @@
 
 ---
 
-## 🔧 Tech Stack  
+## 🔧 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,postgres,redux,jest,styledcomponents,git,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,styledcomponents,java,prisma&theme=dark&perline=9" />
 </p>
 
 ---
